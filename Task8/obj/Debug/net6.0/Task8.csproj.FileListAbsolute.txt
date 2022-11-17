@@ -1,5 +1,0 @@
-C:\Users\acher\Desktop\GB\Семинар\сем от 11.11.22\Task8\obj\Debug\net6.0\Task8.csproj.AssemblyReference.cache
-C:\Users\acher\Desktop\GB\Семинар\сем от 11.11.22\Task8\obj\Debug\net6.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\acher\Desktop\GB\Семинар\сем от 11.11.22\Task8\obj\Debug\net6.0\Task8.AssemblyInfoInputs.cache
-C:\Users\acher\Desktop\GB\Семинар\сем от 11.11.22\Task8\obj\Debug\net6.0\Task8.AssemblyInfo.cs
-C:\Users\acher\Desktop\GB\Семинар\сем от 11.11.22\Task8\obj\Debug\net6.0\Task8.csproj.CoreCompileInputs.cache
